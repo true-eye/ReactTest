@@ -1,0 +1,18 @@
+.header {
+  background: #000000d9;
+  width: 100%;
+  color: lightgray;
+  text-align: center;
+
+  font-size: 13px;
+  padding: 8px;
+
+  .btnBack {
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+  }
+  .btnBack:hover {
+    color: gray;
+  }
+}

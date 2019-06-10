@@ -1,0 +1,17 @@
+.home_container {
+  .content {
+    margin: 10px;
+    .subtitle {
+      color: gray;
+      padding: 5px;
+      font-size: 12px;
+    }
+
+    .btn_group {
+      margin: 10px;
+      button {
+        margin: 5px 5px 5px 0px;
+      }
+    }
+  }
+}
